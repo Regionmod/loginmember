@@ -1,17 +1,22 @@
-{
-  "users": [
-    {
-      "username": "testuser",
-      "password": "testpass",
-      "device_id": "92bb0925b47be",
-      "expiry_date": "2026-12-31"
-    },
-    "idin": [
-    {
-      "username": "qwqw",
-      "password": "123",
-      "device_id": "92bb0925b47beda3",
-      "expiry_date": "2026-12-31"
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "device_id": "device123",
+    "expiry_date": {
+      "year": 2025,
+      "month": 12,
+      "day": 31
     }
-  ]
-}
+  },
+  {
+    "username": "user1",
+    "password": "pass123",
+    "device_id": "device456",
+    "expiry_date": {
+      "year": 2024,
+      "month": 6,
+      "day": 30
+    }
+  }
+]
