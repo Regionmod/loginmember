@@ -6,10 +6,12 @@
       "device_id": "92bb0925b47beda3",
       "expiry_date": "2026-12-31"
     },
+    "users": [
     {
-      "username": "user2",
-      "password": "pass2",
-      "expiry_date": "2024-06-30"
+      "username": "qwqw",
+      "password": "123",
+      "device_id": "92bb0925b47beda3",
+      "expiry_date": "2026-12-31"
     }
   ]
 }
