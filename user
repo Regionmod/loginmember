@@ -1,18 +1,16 @@
 {
   "users": [
     {
-      "id": 1,
-      "username": "user1",
-      "password": "password123",
-      "name": "John Doe",
-      "device_id": "cc3639e550460432"
+      "username": "admin",
+      "password": "admin123",
+      "device_id": "device123",
+      "expiry_date": "2024-12-31"
     },
     {
-      "id": 2,
-      "username": "user2",
-      "password": "password456",
-      "name": "Jane Smith",
-      "device_id": "d4e5f6a1b2c3"
+      "username": "user1",
+      "password": "pass1",
+      "device_id": "device456",
+      "expiry_date": "2024-06-30"
     }
   ]
 }
