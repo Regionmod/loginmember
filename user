@@ -3,10 +3,10 @@
     {
       "username": "testuser",
       "password": "testpass",
-      "device_id": "92bb0925b47beda3",
+      "device_id": "92bb0925b47be",
       "expiry_date": "2026-12-31"
     },
-    "users": [
+    "idin": [
     {
       "username": "qwqw",
       "password": "123",
