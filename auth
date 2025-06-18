@@ -1,0 +1,12 @@
+{
+    "user1": {
+        "password": "pass123",
+        "device_id": "any",
+        "expiry_date": "2024-12-31"
+    },
+    "user2": {
+        "password": "pass456",
+        "device_id": "specific_device_id_here",
+        "expiry_date": "2023-12-31"
+    }
+}
