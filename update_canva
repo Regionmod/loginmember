@@ -1,1 +1,11 @@
-
+{
+  "latest_version": "1.0.1",
+  "version_code": 2,
+  "update_url": "https://github.com/yourusername/yourrepo/releases/latest",
+  "release_notes": [
+    "Perbaikan bug minor",
+    "Peningkatan performa",
+    "Fitur baru ditambahkan"
+  ],
+  "mandatory_update": false
+}
