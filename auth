@@ -6,7 +6,7 @@
     },
     "user2": {
         "password": "pass456",
-        "device_id": "specific_device_id_here",
+        "device_id": "aad2e7964124de37",
         "expiry_date": "2023-12-31"
     },
     "user": {
