@@ -1,0 +1,33 @@
+{
+  "buttons": [
+    {
+      "id": "btnFeature1",
+      "name": "GitHub Repository",
+      "url": "https://youtu.be/NIOfaDKf4kA",
+      "description": "Link to the GitHub repository of RegionMod"
+    },
+    {
+      "id": "btnFeature2",
+      "name": "Feature 2",
+      "url": "https://example.com/feature2",
+      "description": "Second feature button"
+    },
+    {
+      "id": "btnFeature3",
+      "name": "Feature 3",
+      "url": "https://example.com/feature3",
+      "description": "Third feature button"
+    },
+    {
+      "id": "btnFeature4",
+      "name": "Feature 4",
+      "url": "https://example.com/feature4",
+      "description": "Fourth feature button"
+    }
+  ],
+  "app_info": {
+    "name": "RegionMod",
+    "developer": "Mujahiid",
+    "version": "1.0"
+  }
+}
