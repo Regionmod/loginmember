@@ -3,9 +3,9 @@
   "version_code": 2,
   "update_url": "https://github.com/yourusername/yourrepo/releases/latest",
   "release_notes": [
-    "Perbaikan bug minor",
-    "Peningkatan performa",
-    "Fitur baru ditambahkan"
+    "Akses ke Foto & Aset Premium",
+    "Unduh Tanpa Watermark",
+    "Magic Resize"
   ],
   "mandatory_update": false
 }
