@@ -1,33 +1,38 @@
 {
-  "buttons": [
-    {
-      "id": "btnFeature1",
-      "name": "GitHub Repository",
-      "url": "https://youtu.be/NIOfaDKf4kA",
-      "description": "Link to the GitHub repository of RegionMod"
-    },
-    {
-      "id": "btnFeature2",
-      "name": "Feature 2",
-      "url": "https://example.com/feature2",
-      "description": "Second feature button"
-    },
-    {
-      "id": "btnFeature3",
-      "name": "Feature 3",
-      "url": "https://example.com/feature3",
-      "description": "Third feature button"
-    },
-    {
-      "id": "btnFeature4",
-      "name": "Feature 4",
-      "url": "https://example.com/feature4",
-      "description": "Fourth feature button"
-    }
-  ],
-  "app_info": {
-    "name": "RegionMod",
-    "developer": "Mujahiid",
-    "version": "1.0"
-  }
+  "url": "https://api.github.com/repos/yourusername/yourrepository/releases/12345678",
+  "assets_url": "https://api.github.com/repos/yourusername/yourrepository/releases/12345678/assets",
+  "upload_url": "https://uploads.github.com/repos/yourusername/yourrepository/releases/12345678/assets{?name,label}",
+  "html_url": "https://github.com/yourusername/yourrepository/releases/tag/v1.2.0",
+  "id": 12345678,
+  "author": {
+    "login": "yourusername",
+    "id": 1234567,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1234567?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/yourusername",
+    "html_url": "https://github.com/yourusername",
+    "followers_url": "https://api.github.com/users/yourusername/followers",
+    "following_url": "https://api.github.com/users/yourusername/following{/other_user}",
+    "gists_url": "https://api.github.com/users/yourusername/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/yourusername/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/yourusername/subscriptions",
+    "organizations_url": "https://api.github.com/users/yourusername/orgs",
+    "repos_url": "https://api.github.com/users/yourusername/repos",
+    "events_url": "https://api.github.com/users/yourusername/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/yourusername/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "node_id": "MDc6UmVsZWFzZTEyMzQ1Njc4",
+  "tag_name": "v1.2.0",
+  "target_commitish": "main",
+  "name": "Version 1.2.0 Release",
+  "draft": false,
+  "prerelease": false,
+  "created_at": "2023-05-15T12:00:00Z",
+  "published_at": "2023-05-15T12:30:00Z",
+  "assets": [],
+  "tarball_url": "https://api.github.com/repos/yourusername/yourrepository/tarball/v1.2.0",
+  "zipball_url": "https://api.github.com/repos/yourusername/yourrepository/zipball/v1.2.0",
+  "body": "## What's Changed\n\n* New feature A added\n* Bug fix for issue #123\n* Performance improvements\n\n**Full Changelog**: https://github.com/yourusername/yourrepository/compare/v1.1.0...v1.2.0"
 }
