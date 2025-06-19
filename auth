@@ -7,7 +7,7 @@
     "user2": {
         "password": "pass456",
         "device_id": "aad2e7964124de37",
-        "expiry_date": "2023-12-31"
+        "expiry_date": "2026-12-31"
     },
     "user": {
         "password": "1",
