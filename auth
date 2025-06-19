@@ -13,5 +13,10 @@
         "password": "1",
         "device_id": "cc3639e550460432",
         "expiry_date": "2023-12-31"
+    },
+    "1212": {
+        "password": "1",
+        "device_id": "any",
+        "expiry_date": "2030-12-31"
     }
 }
