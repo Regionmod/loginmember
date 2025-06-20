@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "id": "app1",
+      "name": "Aplikasi Pertama",
+      "package_name": "com.example.app1",
+      "version": "1.0.0",
+      "download_url": "https://github.com/username/repo/raw/main/app1.apk",
+      "icon_url": "https://github.com/username/repo/raw/main/app1_icon.png"
+    },
+    {
+      "id": "app2",
+      "name": "Aplikasi Kedua",
+      "package_name": "com.example.app2",
+      "version": "1.2.0",
+      "download_url": "https://github.com/username/repo/raw/main/app2.apk",
+      "icon_url": "https://github.com/username/repo/raw/main/app2_icon.png"
+    }
+  ]
+}
