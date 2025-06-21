@@ -1,11 +1,22 @@
-{
-  "latest_version": "Pro",
-  "version_code": 2,
-  "update_url": "https://github.com/yourusername/yourrepo/releases/latest",
-  "release_notes": [
-    "Akses ke Foto & Aset Premium",
-    "Unduh Tanpa Watermark",
-    "Magic Resize"
-  ],
-  "mandatory_update": false
-}
+[
+  {
+    "id": "btnFeature1",
+    "name": "Feature 1",
+    "url": "https://www.youtube.com/results?search_query=decompile+apk"
+  },
+  {
+    "id": "btnFeature2",
+    "name": "Feature 2",
+    "url": "https://raw.githubusercontent.com/username/repo/main/feature2.json"
+  },
+  {
+    "id": "btnFeature3",
+    "name": "Feature 3",
+    "url": "https://raw.githubusercontent.com/username/repo/main/feature3.json"
+  },
+  {
+    "id": "btnFeature4",
+    "name": "Feature 4",
+    "url": "https://raw.githubusercontent.com/username/repo/main/feature4.json"
+  }
+]
