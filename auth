@@ -4,15 +4,15 @@
         "device_id": "any",
         "expiry_date": "2026-12-31"
     },
-    "idin": {
-        "password": "idin",
-        "device_id": "aad2e7964124de37",
-        "expiry_date": "2026-12-31"
-    },
 "Keisya": {
         "password": "keisya009",
         "device_id": "ba9b95c994ba088b",
         "expiry_date": "2025-09-02"
+    },
+"Mazman": {
+        "password": "mazman009",
+        "device_id": "454c6d53459c6019",
+        "expiry_date": "2025-09-26"
     },
     "user": {
         "password": "1",
