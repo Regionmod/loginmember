@@ -24,6 +24,11 @@
         "device_id": "753f2eb4fb004b53",
         "expiry_date": "2025-09-13"
     },
+"Solichin": {
+        "password": "solichin001",
+        "device_id": "ad6eeacfa54df11c",
+        "expiry_date": "2025-09-13"
+    },
     "admin": {
         "password": "1",
         "device_id": "any",
