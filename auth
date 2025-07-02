@@ -14,9 +14,14 @@
         "device_id": "a7c37c1f62ec959a",
         "expiry_date": "2025-11-26"
     },
+"Erwin": {
+        "password": "erwin123",
+        "device_id": "75ac68e575deb6e2",
+        "expiry_date": "2025-10-26"
+    },
 "Cahyadi Eka": {
         "password": "cahyadi009",
-        "device_id": "75ac68e575deb6e2",
+        "device_id": "753f2eb4fb004b53",
         "expiry_date": "2025-09-13"
     },
     "admin": {
