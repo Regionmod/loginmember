@@ -49,6 +49,11 @@
         "device_id": "f48da2dc1630168c",
         "expiry_date": "2025-10-10"
     },
+"ibnu hibban": {
+        "password": "ibnu123",
+        "device_id": "11e60c411eaffb0c",
+        "expiry_date": "2025-09-08"
+    },
     "admin": {
         "password": "1",
         "device_id": "any",
