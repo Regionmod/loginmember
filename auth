@@ -39,6 +39,11 @@
         "device_id": "c698b4067b33c16f",
         "expiry_date": "2025-09-02"
     },
+"deni": {
+        "password": "deni007",
+        "device_id": "f48da2dc1630168c",
+        "expiry_date": "2025-10-10"
+    },
     "admin": {
         "password": "1",
         "device_id": "any",
