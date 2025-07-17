@@ -4,6 +4,11 @@
         "device_id": "ba9b95c994ba088b",
         "expiry_date": "2025-09-02"
     },
+"Adis": {
+        "password": "adis123",
+        "device_id": "8dc5053f7cd95fd2",
+        "expiry_date": "2025-08-13"
+    },
 "Mazman": {
         "password": "mazman009",
         "device_id": "454c6d53459c6019",
